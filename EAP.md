@@ -1,4 +1,4 @@
-# EAP – Módulo de Pedidos e Entregas
+﻿# EAP – Módulo de Pedidos e Entregas
 
 > Estrutura analítica em 3 níveis, orientada a entregas (substantivos).
 
@@ -23,7 +23,7 @@
 
 ### 1.4 Notificações
 - 1.4.1 Notificação por e-mail
-- 1.4.2 Notificação por SMS/push
+- 1.4.2 Notificação por SMS e push
 - 1.4.3 Painel de status do pedido
 
 ### 1.5 Relatórios
